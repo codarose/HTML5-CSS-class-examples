@@ -1,0 +1,24 @@
+h1{
+  color:blue; 
+  font-size: 2rem;
+}
+article h1{
+  color: black; 
+  font-size: 1.4rem;   
+}
+section h1{
+  color:grey; 
+  font-size:1.2rem;
+}
+
+/* What happens if we switch the order of 
+the article h1 selector and the section h1
+ selector? */
+
+ /* How could we re-write the selectors to
+ ensure that everything gets the styling
+ as expected? */
+
+ /* What if we added class and id? 
+ what values would take precedence in the 
+ inspect pane? */

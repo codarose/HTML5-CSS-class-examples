@@ -1,0 +1,14 @@
+section {
+  font-size: 24px;
+}
+
+li {
+  font-size: 0.5em;
+}
+
+/* When you inspect this in the browser,
+what font-size is given to li elements?
+Use the "computed" tab to determine this. */
+
+/* what would be a good responsive unit
+to use for the font-size other than em? */
