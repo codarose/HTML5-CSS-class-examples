@@ -1,6 +1,4 @@
-* {
-  float: left;
-}
+
 #default-box-sizing p {
   box-sizing: content-box;
   background-color: blue;

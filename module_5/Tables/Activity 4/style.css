@@ -1,0 +1,38 @@
+table,
+th,
+td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  height: 2.5rem;
+  width: 4rem;
+}
+
+table {
+  width: 100%;
+}
+
+thead {
+  background: blue;
+  color: blue;
+  border-bottom: 3px solid white;
+}
+
+tbody tr:nth-child(odd) {
+  background: powderblue;
+  color: powderblue;
+}
+
+tbody tr:nth-child(even) {
+  background: skyblue;
+  color: skyblue;
+}
+
+/* Added to implement activity 6 */
+table tr:hover,
+tbody tr:hover {
+  background: yellow;
+}

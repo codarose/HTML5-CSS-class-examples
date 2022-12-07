@@ -1,0 +1,24 @@
+thead {
+  background: darkgrey;
+}
+
+tbody {
+  background: lightgrey;
+}
+
+table,
+th,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 40rem;
+  padding: 1rem;
+}
+
+.no-bottom {
+  border-bottom: hidden;
+}
+
+.no-right {
+  border-right: hidden;
+}

@@ -1,3 +1,31 @@
-img {
-    width: 10rem;
- }
+* {
+  box-sizing: border-box;
+}
+
+figure img {
+  width: 25rem;
+}
+ol {
+  background: gray;
+}
+
+ol li {
+  margin-left: 1rem;
+  background: green;
+}
+
+li img {
+  width: 10rem;
+  margin-left: 1rem;
+  background: blue;
+}
+
+#class-example {
+  background: yellow;
+}
+#class-example p {
+  
+  background: orange;
+  text-align: right;
+
+}

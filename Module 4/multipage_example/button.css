@@ -1,6 +1,10 @@
 button {
-    color: green; 
-    font-size: 24px;
-    border-radius: 10px;
-    padding: 5px; 
+  color: green;
+  font-size: 24px;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+p {
+  color: blue;
 }
